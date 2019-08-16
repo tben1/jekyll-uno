@@ -4,7 +4,7 @@ layout: default
 <article class="post-container post-container--single">
   <header class="post-header">
     <div class="post-meta">
-     <span class="post-meta__tags"> posted on <time datetime="{{ page.date | date: "%Y-%m-%d %H:%M" }}" class="post-meta__date date">{{ page.date | date: "%-d %b %Y" }}</time>
+     <span class="post-meta__tags"> posted on <a href="#"><time datetime="{{ page.date | date: "%Y-%m-%d %H:%M" }}" class="post-meta__date date">{{ page.date | date: "%-d %b %Y" }}</time></a>
       {% if page.tags.size > 0 %} </span>
        <span class="post-meta__tags"> filed under {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a> | {% endfor %}</span>
       {% endif %}  <span class="post-meta__tags"> written by <a href="#"> Tarik Benabbou </a> </span>  <span class="post-meta__tags">views <a href="#"> 1k+ </a> </span>
