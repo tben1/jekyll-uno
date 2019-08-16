@@ -1,1 +1,30 @@
 
+
+---
+title:  "# Data is Holding Back AI"
+date:   2018-01-08 15:04:23
+categories: [MachineLearning]
+tags: [MachineLearning]
+---
+![enter image description here](https://thumbor.forbes.com/thumbor/960x0/https://specials-images.forbesimg.com/imageserve/566888527/960x0.jpg?fit=scale)
+I remember grumbling, `“Good lord this is a waste of time,”` in 1992 while I was working on an AI application for `lip-reading`.
+
+The grumble escaped my lips because I felt like I was spending half my time inputting data cleanly into the video processing `neural network`. Bouncing from a video capture device to a `DEC workstation` to a `Convex Supercomputer` to a `Cray`, I felt like I had been thrown into a caldron of Chinese water torture.
+
+Sitting over my head was a joke happy birthday poster from Arthur C. Clarke’s  _Space Odyssey_series featuring HAL 9000. I found it ironic that I was essentially acting like a highly-trained monkey, while a fictional AI stared down at me, laughing. Over the two years of that AI project, I easily spent 60% of my time just getting the data captured, cleaned, imported and in a place where it could be used by the training system.  AI, as practitioners know, is the purest example of garbage in, garbage out.  The worst part is that sometimes you don’t realize it until your AI answers “anvil” when you ask it what someone’s favorite food is.
+
+Last month, I was having a conversation with the CEO of a well-respected AI startup when I was struck by deja-vu. He said, “I swear, we have spent at least half of our funding on data management.” I wondered if this could actually be the case, so I pushed him, probing him with questions on automation, data quality and scaling. His answers all sounded remarkably familiar. Over the next two weeks, I contacted a few other AI startup executives — my criteria was that they had raised at least $10 million in funding and had a product in the market — and their answers were all strikingly similar.
+To be sure, there are significant improvements being made to decrease the amount of information needed to train AI systems and in building effective learning transference mechanisms. This week, in fact, Google revealed solid progress with the news that its AlphaGo is now learning automatically from itself. The advancement trends will continue, but such innovations are still very much still in their early stages. In the meantime, AI hype is very likely to outstrip real results.
+
+So what are some things that can be done to raise the quality of AI development? Here are my suggestions for building a best-in-class AI system today:
+
+1.  **Rely on peer-reviewed innovation.**  Companies using AI backed by thoughtful study, preferably peer reviewed by academics, are showing the most progress. However, that scrutiny should not stop with the algorithm. That same critical analysis should be true of the data. To that point, I recently suggested to a venture capital firm that if the due diligence process for a contemplated investment revealed a great disparity between the quality of the algorithms and the quality of the data utilized by the start-up, it should pass on the investment. Why? Because that disparity is a major red flag.
+2.  **Organize data properly.**  There is an incredible amount of data being produced each day. But it should be kept in mind that learning vs. production data is different, and data must be stabilized as you move from a training environment to a production one. As such, utilizing a cohesive internal data model is critical, especially if the AI is built according to a recent ‘‘data-driven’ architecture vs. a ‘model-driven’ system. Without a cohesive system, you have a recipe for disaster. As one CEO recently told me, a year of development had to be discarded because his company hadn’t configured its training data properly.
+3.  **Automate everything in the production environment.**  This goes hand in hand with being organized, but it needs to be called out separately. Transitioning from the research lab to the production environment, no matter what system you are building, requires a fully automated solution. One of the benefits of the maturation of Big Data and IOT systems is that building such a solution is a relatively straightforward part of developing an AI system. However, without full automation, errors in learning, production and a strain on human resources compound flaws and make their repair exceedingly difficult.
+4.  **Choose quality over quantity.**  Today, data scientists find themselves in a situation where a large amount of the data they collect is of terrible quality. An example is clinical genetics, where the data sources used to analyze gene sequence variation are so inconsistent that ‘database of database’ systems have been built to make sense of the datasets. In the case of genetic analysis systems, for example, over 200 separate databases are often utilized. Banks too often must extract data from at least 15 external systems. Without a systemic basis for picking and choosing the data, any variances in data can work against the efficacies of an AI system.
+5.  **Scale your data (and that’s hard to do).**  Given my previous comments about Big Data and IOT, you might think that scaled data management is easily available. But you would be wrong. That’s because once you clear the previous four steps, you may end up with very small relevant sample sets. In some applications, a small dataset may represent a good start; however, that doesn’t fly in AI systems. Indeed, would you want to release an AI program such as autonomous cars or individualized cancer drugs into the wild after being trained on a small database?
+
+In aggregate, the considerations described above represent some fundamental starting points for ensuring that you are holding your data to the same standards to which you hold your AI.
+
+Ahead of coming technical advancements, especially around data management and optimization in algorithm construction, these tenets are a good starting point for those trying to avoid the common garbage in, garbage out issues that are (unfortunately) typifying many AI systems today.
+
