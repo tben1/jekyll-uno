@@ -9,7 +9,7 @@ Au cours des dernières années, les termes intelligence artificielle (`Artifici
 
 Et bien sûr, les experts ne sont parfois pas d’accord sur la nature de ces différences.
 
-En général, cependant, deux choses semblent claires: premièrement, le terme intelligence artificielle (`IA`) est plus ancien que le terme apprentissage automatique (`ML`), et deuxièmement, la plupart des gens considèrent l'apprentissage automatique comme un sous-ensemble de l'intelligence artificielle.
+En général, deux choses semblent claires: premièrement, le terme intelligence artificielle (`IA`) est plus ancien que le terme apprentissage automatique (`ML`), et deuxièmement, la plupart des gens considèrent l'apprentissage automatique comme un sous-ensemble de l'intelligence artificielle.
 
 **Intelligence artificielle (IA) VS apprentissage automatique (ML)**
 
