@@ -18,6 +18,7 @@ Bien que l'IA soit définie à bien des égards, la définition la plus communé
 Le cœur d'un système basé sur l'intelligence artificielle est son modèle. Un modèle n'est rien d'autre qu'un programme qui améliore ses connaissances grâce à un processus d'apprentissage en faisant des observations sur son environnement. Ce type de modèle basé sur l’apprentissage est regroupé sous `Apprentissage supervisé` (`Supervised Learning :` est une tâche d'apprentissage automatique consistant à apprendre une fonction de prédiction à partir d'exemples annotés, on distingue les problèmes de régression des problèmes de classement.). Il existe d'autres modèles qui entrent dans la catégorie des modèles d'`apprentissage non supervisé`.
 
 L'expression "`apprentissage automatique`" remonte elle aussi au milieu du siècle dernier. En 1959, `Arthur Samuel` définit ML comme "la capacité d'apprendre sans être explicitement programmé". 
+
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/f/f8/This_is_the_photo_of_Arthur_Samuel.jpg)
 
 Et il a ensuite créé une application de vérificateurs informatiques qui a été l’un des premiers programmes à tirer les leçons de ses propres erreurs et à améliorer ses performances au fil du temps.
