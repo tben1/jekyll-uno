@@ -5,7 +5,7 @@ exclude: 'yes'
 ---
 
 /* TEAM */
-Developer & Designer: Josh Gerdes
+Developer & Designer: Josh 
 Twitter: @joshgerdes
 Site: http://joshgerdes.com
 Location: Minneapolis, MN, USA
