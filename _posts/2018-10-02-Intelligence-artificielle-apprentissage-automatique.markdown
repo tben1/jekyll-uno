@@ -3,6 +3,7 @@ title:  "Intelligence artificielle (IA) vs apprentissage automatique (ML)."
 date:   2018-10-02 20:21:55
 categories: [MachineLearnin]
 tags: [MachineLearnin, IA, ML]
+views: 1k+
 ---
 ![enter image description here](https://cdn-images-1.medium.com/max/700/0*wNFF7lH8QyswBM6X.png)
 Au cours des dernières années, les termes intelligence artificielle (`Artificial Intelligence`) et apprentissage automatique (`Machine Learning`) ont commencé à apparaître fréquemment dans les actualités technologiques et les sites Web. Les deux sont souvent utilisés comme synonymes, mais de nombreux experts affirment qu’ils présentent des différences subtiles mais réelles.
