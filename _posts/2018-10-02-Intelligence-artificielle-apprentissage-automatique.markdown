@@ -19,6 +19,7 @@ Le cœur d'un système basé sur l'intelligence artificielle est son modèle. Un
 
 L'expression "`apprentissage automatique`" remonte elle aussi au milieu du siècle dernier. En 1959, `Arthur Samuel` définit ML comme "la capacité d'apprendre sans être explicitement programmé". 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/f/f8/This_is_the_photo_of_Arthur_Samuel.jpg)
+
 Et il a ensuite créé une application de vérificateurs informatiques qui a été l’un des premiers programmes à tirer les leçons de ses propres erreurs et à améliorer ses performances au fil du temps.
 
 Comme la recherche sur l'intelligence artificielle, ML est tombé hors de la mode pendant longtemps, mais il est redevenu populaire lorsque le concept de `data mining` a commencé à prendre son envol vers les années 1990. L'exploration de données utilise des algorithmes pour rechercher des modèles dans un ensemble d'informations donné. ML fait la même chose, mais va encore plus loin: il modifie le comportement de son programme en fonction de ce qu'il apprend.
