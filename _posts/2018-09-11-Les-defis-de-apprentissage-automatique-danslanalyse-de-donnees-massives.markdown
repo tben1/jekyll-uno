@@ -3,6 +3,7 @@ title:  "Les défis de l'apprentissage automatique dans l'analyse de données ma
 date:   2018-09-11 21:43:21
 categories: [MachineLearnin]
 tags: [MachineLearnin, BIGDATA]
+views: 1k+
 ---
 ![enter image description here](https://technofaq.org/wp-content/uploads/2018/01/1KzmIUYPmxgEHhXX7SlbP4w-620x350.jpeg)
 
