@@ -7,7 +7,7 @@ tags: [MachineLearning]
 ![enter image description here](https://thumbor.forbes.com/thumbor/960x0/https://specials-images.forbesimg.com/imageserve/566888527/960x0.jpg?fit=scale)
 I remember grumbling, `“Good lord this is a waste of time,”` in 1992 while I was working on an AI application for `lip-reading`.
 
-The grumble escaped my lips because I felt like I was spending half my time inputting data cleanly into the video processing `neural network`. Bouncing from a video capture device to a `DEC workstation` to a `Convex Supercomputer` to a `Cray`, I felt like I had been thrown into a caldron of Chinese water torture.
+The grumble escaped my lips because I felt like I was spending half my time inputting data cleanly into the video processing `neural network`. .Bouncing from a video capture device to a `DEC workstation` to a `Convex Supercomputer` to a `Cray`, I felt like I had been thrown into a caldron of Chinese water torture.
 
 Sitting over my head was a joke happy birthday poster from Arthur C. Clarke’s  _Space Odyssey_series featuring HAL 9000. I found it ironic that I was essentially acting like a highly-trained monkey, while a fictional AI stared down at me, laughing. Over the two years of that AI project, I easily spent 60% of my time just getting the data captured, cleaned, imported and in a place where it could be used by the training system.  AI, as practitioners know, is the purest example of garbage in, garbage out.  The worst part is that sometimes you don’t realize it until your AI answers “anvil” when you ask it what someone’s favorite food is.
 
