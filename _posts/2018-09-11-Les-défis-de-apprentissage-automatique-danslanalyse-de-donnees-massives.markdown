@@ -5,6 +5,7 @@ categories: [MachineLearnin]
 tags: [MachineLearnin, BIGDATA]
 ---
 ![enter image description here](https://technofaq.org/wp-content/uploads/2018/01/1KzmIUYPmxgEHhXX7SlbP4w-620x350.jpeg)
+
 L'apprentissage automatique (`Machine Learning`) est une branche de l'informatique, un domaine de l'intelligence artificielle. Il s’agit d’une méthode d’analyse de données permettant d’automatiser la création de modèles analytiques. Comme le mot l'indique, il permet également aux machines (systèmes informatiques) de tirer des leçons des données (`DATASET`), sans aide extérieure pour prendre des décisions avec un minimum d'interférences humaines.Avec l'évolution des nouvelles technologies, l'apprentissage automatique a beaucoup évolué au cours des dernières années.
  
  - [ ] **Qu'est-ce que le Big Data?**
