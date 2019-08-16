@@ -6,9 +6,12 @@ tags: [MachineLearnin, BIGDATA]
 ---
 ![enter image description here](https://technofaq.org/wp-content/uploads/2018/01/1KzmIUYPmxgEHhXX7SlbP4w-620x350.jpeg)
 
+
+ - **Qu'est-ce que l'apprentissage automatique?**
+ 
 L'apprentissage automatique (`Machine Learning`) est une branche de l'informatique, un domaine de l'intelligence artificielle. Il s’agit d’une méthode d’analyse de données permettant d’automatiser la création de modèles analytiques. Comme le mot l'indique, il permet également aux machines (systèmes informatiques) de tirer des leçons des données (`DATASET`), sans aide extérieure pour prendre des décisions avec un minimum d'interférences humaines.Avec l'évolution des nouvelles technologies, l'apprentissage automatique a beaucoup évolué au cours des dernières années.
  
- - [ ] **Qu'est-ce que le Big Data?**
+ - **Qu'est-ce que le Big Data?**
 
 Le `Big Data` , littéralement « grosses données », ou mégadonnées (recommandé), parfois appelées données massives, signifie trop d'informations, et l'analyse signifie l'analyse d'une grande quantité de données pour filtrer les informations. Un humain ne peut pas accomplir cette tâche efficacement dans un délai déterminé. Voici donc le moment où l'apprentissage automatique (`Machine Learning`) pour l'analyse de données volumineuses entre en jeu. Prenons un exemple. Supposons que vous soyez propriétaire de l’entreprise et que vous devez collecter une grande quantité d’informations, ce qui est très difficile en soi. Ensuite, vous commencez à trouver un indice qui vous aidera dans votre entreprise ou vous aidera à prendre des décisions plus rapidement. Ici, vous réalisez que vous avez affaire à d’immenses informations. Votre analyse a besoin d’un peu d’aide pour réussir votre recherche. Dans le processus d’apprentissage automatique, plus les données que vous fournissez au système sont nombreuses (`DATASET`), plus le système peut en tirer des enseignements et renvoyer toutes les informations que vous cherchiez afin que votre recherche aboutisse. C'est pourquoi cela fonctionne si bien avec l'analyse de données volumineuses. Sans `Big Data`, il ne peut pas fonctionner à son niveau optimal car avec moins de données, le système n'a que peu d'exemples à apprendre. On peut donc dire que le `Big Data` joue un rôle majeur dans l’apprentissage automatique (`Machine Learning`).
 
